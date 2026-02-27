@@ -1,3 +1,2 @@
 print("hola mundo")
- print ("otra vez yo")
-      
+print ("otra vez yo")
