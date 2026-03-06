@@ -1,6 +1,3 @@
-# Programa que solicita números hasta que el usuario introduce 0
-# y muestra la suma total utilizando un bucle while con un acumulador
-
 acumulador = 0
 while True:
     numero = int(input("Ingrese un número (0 para finalizar): "))
